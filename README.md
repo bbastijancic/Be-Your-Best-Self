@@ -1,4 +1,4 @@
-# Peak-Mental-State
+# Be-Your-Best-Self
 
 Building AI course project
 
