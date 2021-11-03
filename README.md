@@ -18,8 +18,9 @@ Example 1:
 You are working on your computer. Camera on your screen is turned on. Facial-recognition software is constantly reading your emotions. You received an email that makes you anxious and you stayed anxious for some time. Facial-recognition software captured that emotion and gently alerts you that you are not in the best mental shape. It is offering you to stop for a moment and guides you through special meditation for relesing anxeity. As you finish with meditation, you are back on track and ready to deal with that email.
 
 Example 2:
-You do not feel ok, actually you feel worried about something. You take your mobile phone, open the application. Application starts to read your emotions using facial-recognition. It detects that you are worried and even scared and leads you through guided meditation designed to help you deal with worry and fear. After meditation is finished, you are presented with several photos of your family ans friends. Now you feel strong and ready to deal wioth the problem that made you worry in the first place.
+You do not feel ok, actually you feel worried about something. You take your mobile phone, open the application. Application starts to read your emotions using facial-recognition. It detects that you are worried and even scared and leads you through guided meditation designed to help you deal with worry and fear. After meditation is finished, you are presented with several photos of your family ans friends. Now you feel strong and ready to deal with the problem that made you worry in the first place.
 
+Note: solutions that are offered to you depend on your preferences. You choose if you prefer meditations, music, quotes, photos...
 
 ## Data sources and AI methods
 
